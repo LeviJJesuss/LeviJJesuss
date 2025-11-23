@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Levi Jardim de Jesus, tenho 18 anos e sou natural de Feira de Santana, Bahia. Concluí o ensino médio em São Paulo, com o curso técnico em Desenvolvimento de Sistemas na Etec. Sou apaixonado por tecnologia e cenho aprofundando meus conhecimentos por conta própria, estudando diariamente e desenvolvendo projetos práticos.
+Me chamo Levi Jardim de Jesus, tenho 18 anos e sou natural de Feira de Santana, Bahia. Concluí o ensino médio em São Paulo, com o curso técnico em Desenvolvimento de Sistemas na Etec. Sou apaixonado por tecnologia e venho aprofundando meus conhecimentos por conta própria, estudando diariamente e desenvolvendo projetos práticos.
 
 ---
 
